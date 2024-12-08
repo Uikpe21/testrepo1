@@ -5,3 +5,4 @@ Learning DevOps
 First Pull and Push
 VisualCode is very cool
 This line of code was pushed from Test-push2 Branch
+We did a branch commit, then merged from Test-push2
